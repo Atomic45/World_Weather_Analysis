@@ -1,1 +1,1 @@
-weather_api_key=
+weather_api_key="d1fa33cf8c752186e1af89c93941ffc5"
